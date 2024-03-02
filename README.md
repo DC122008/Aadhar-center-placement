@@ -21,3 +21,5 @@ Data Visualization with Matplotlib:
 
 Iterative Approach:
 The script follows an iterative approach to k-means clustering by gradually reducing the number of candidate centers. The optimal cluster centers, determined through the clustering process, are visualized on the original satellite image.
+
+Dataset:https://bhuvan.nrsc.gov.in/hackathon/iisf2023/
